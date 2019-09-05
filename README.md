@@ -6,7 +6,7 @@ If you use this code, pleae cite the following papers in your work.
 
 [1] Xiangyong Cao, Jing Yao, Zongben Xu, Deyu Meng. Hyperspectral Image Classification with Convolutional Neural Network and Active Learning.
 
-[2] H. Bi, F. Xu, Z. Wei, Y. Xue, and Z. Xu, ¡°An active deep learning approach for minimally supervised polsar image classification,¡± IEEE Transactions on Geoscience and Remote Sensing, pp. 1¨C18, 2019. 
+[2] H. Bi, F. Xu, Z. Wei, Y. Xue, and Z. Xu, An active deep learning approach for minimally supervised polsar image classification. IEEE Transactions on Geoscience and Remote Sensing, 2019. 
 
 
 ## Reproducing the results
