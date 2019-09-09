@@ -8,6 +8,8 @@ If you use this code, pleae cite the following papers in your work.
 
 [2] H. Bi, F. Xu, Z. Wei, Y. Xue, and Z. Xu, An active deep learning approach for minimally supervised polsar image classification. IEEE Transactions on Geoscience and Remote Sensing, 2019. 
 
+## Install Matconvnet in Windows
+Please follow the instruction in the website: http://shan3ahmed.blogspot.com/2017/08/compile-matconvnet-on-windows.html.
 
 ## Reproducing the results
 
