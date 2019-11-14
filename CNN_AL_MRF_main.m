@@ -1,12 +1,14 @@
 
 %% Experiment for HSIs classification using CNNs, active learning and MRF incorporated model
-% writen by ...
+% This code is modified based on the code of Haixia Bi, and is mainly modified by Jing Yao 
 % Aug. 2019.
 % the folder containing this function is suggested to be located under ...\matconvnet\examples\
 %
 % if you find this code useful, please kindly cite the following papers:
-%       [1]
-%       [2]
+%       [1] Xiangyong Cao, Jing Yao, Zongben Xu, Deyu Meng. Hyperspectral Image Classification 
+%          with Convolutional Neural Network and Active Learning.
+%       [2] H. Bi, F. Xu, Z. Wei, Y. Xue, and Z. Xu, An active deep learning approach for 
+%          minimally supervised polsar image classification. IEEE Transactions on Geoscience and Remote Sensing, 2019.
 %       ...
 
 close all; clear, clc;
