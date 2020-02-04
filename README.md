@@ -4,7 +4,7 @@ This is the code of "Hyperspectral Image Classification with Convolutional Neura
 
 If you use this code, pleae cite the following papers in your work.
 
-[1] Xiangyong Cao, Jing Yao, Zongben Xu, Deyu Meng. Hyperspectral Image Classification with Convolutional Neural Network and Active Learning. IEEE Transactions on Geoscience and Remote Sensing, 2020. 
+[1] Xiangyong Cao, Jing Yao, Zongben Xu, Deyu Meng. Hyperspectral Image Classification with Convolutional Neural Network and Active Learning. IEEE Transactions on Geoscience and Remote Sensing, 2020. (https://ieeexplore.ieee.org/document/8978543)
 
 [2] H. Bi, F. Xu, Z. Wei, Y. Xue, and Z. Xu, An active deep learning approach for minimally supervised polsar image classification. IEEE Transactions on Geoscience and Remote Sensing, 2019. 
 
